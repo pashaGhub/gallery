@@ -15,9 +15,9 @@
   overflow-y: scroll;
   top: 1rem;
   bottom: 1rem;
-  -webkit-box-shadow: 0px 0px 25px 2px rgba(49, 54, 153, 1);
-  -moz-box-shadow: 0px 0px 25px 2px rgba(49, 54, 153, 1);
-  box-shadow: 0px 0px 25px 2px rgba(49, 54, 153, 1);
+  -webkit-box-shadow: 0px 0px 25px 2px rgb(49, 124, 153);
+  -moz-box-shadow: 0px 0px 25px 2px rgb(49, 124, 153);
+  box-shadow: 0px 0px 25px 2px rgb(49, 124, 153);
 }
 
 .sidebar .loading {
